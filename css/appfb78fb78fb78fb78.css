@@ -10600,6 +10600,9 @@ body {
   font-size: 40px;
   text-shadow: 2px 2px 4px #ff0000;
 }
+.timeline-content-icon {
+  background: #fff !important;
+}
 .timeline-content-icon img {
   max-width: 100%;
 }
